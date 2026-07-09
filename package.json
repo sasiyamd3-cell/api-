@@ -1,0 +1,16 @@
+{
+  "name": "sasiya-md-api",
+  "version": "1.0.0",
+  "description": "Sasiya MD YouTube Downloader API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
